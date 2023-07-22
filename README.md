@@ -1,5 +1,5 @@
 <h1 align="center">Hi all 👋, I'm CJ Space</h1>
-<h3 align="center">Frontend developer, with a junior level. A science and technology geek, trying to improve life by coding</h3>
+<h2 align="center">Frontend developer, with a junior level. A science and technology geek, trying to improve life by coding</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spacedevb&label=Profile%20views&color=0e75b6&style=flat" alt="spacedevb" /> </p>
 
