@@ -1,11 +1,11 @@
 <h1 align="center">Hi all 👋, I'm CJ Space</h1>
 <h2 align="center">Frontend developer, with a junior level. A science and technology geek, trying to improve life by coding</h2>
-<img src="https://i.gifer.com/g2dm.gif" width="400" align="right"/>
+<img src="https://i.gifer.com/g2dm.gif" alt="Coding" width="400" align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spacedevb&label=Profile%20views&color=0e75b6&style=flat" alt="spacedevb" /> </p>
 
 - ⛱️ Portfolio with some projects [https://spacedevb.github.io/](https://spacedevb.github.io/)
 
-- 🏆 My lands are **HTML, CSS, JS, Tailwind, React. Trying to conquer TypeScript, Next.js, React Native. With Future Views to Fullstack**
+- 🏆 My lands are **HTML, CSS, JS, Tailwind, React. Trying to conquer TypeScript, Next.js, React Native. With future views to Fullstack**
 
 - 😄 Let's talk 👉 **space.devb@gmail.com**
 
